@@ -1,0 +1,3 @@
+https://github.com/jock1907/school_project.git
+
+first doc for school project with github
